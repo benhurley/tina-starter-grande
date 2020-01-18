@@ -67,7 +67,6 @@ function Post(props) {
 }
 
 function RemarkForm(props) {
-  const authors = useAuthors()
   const PostForm = useMemo(() => {
     return {
       actions: [DeleteAction],
