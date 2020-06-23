@@ -112,7 +112,6 @@ export const postQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
-
       frontmatter {
         path
         date(formatString: "MMMM DD, YYYY")
@@ -131,7 +130,6 @@ export const postQuery = graphql`
           }
         }
       }
-
       fileRelativePath
       rawFrontmatter
       rawMarkdownBody
