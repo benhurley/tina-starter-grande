@@ -13,13 +13,14 @@ export function Form({ form }) {
       data-netlify="true"
       data-netlify-honeypot="bot-field"
     >
-    <input type="hidden" name="form-name" value="contact" />
+    <input type="hidden" aria-label="form-label" name="form-name" value="contact" />
       {form.fields.map(field => {
         if (field.inputType === "textarea") {
           return (
             <FormField wide>
               <label for={slugify(field.label)}>{field.label}</label>
               <textarea
+                aria-label="input"
                 cols="40"
                 rows="5"
                 name={slugify(field.label)}
@@ -32,6 +33,7 @@ export function Form({ form }) {
             <FormField>
               <label for={slugify(field.label)}>{field.label}</label>
               <input
+                aria-label="input"
                 id={slugify(field.label)}
                 name={slugify(field.label)}
                 type={field.inputType}
