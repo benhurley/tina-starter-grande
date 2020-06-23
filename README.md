@@ -29,7 +29,6 @@
   - Author(s)
   - Draft mode
   - Inline editing mode
-- Netlify deploy configuration
 - Styled Components
 
 <br />
