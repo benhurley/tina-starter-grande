@@ -6,6 +6,7 @@ import { Hero } from "./hero"
 import { removeNull } from "./helpers"
 import { NavForm } from "./nav"
 import { ThemeForm } from "./theme"
+import { useStaticQuery, graphql } from "gatsby"
 
 import { useGlobalJsonForm } from "gatsby-tinacms-json"
 
