@@ -3,7 +3,7 @@
   "blocks": [
     {
       "_template": "ContentBlock",
-      "content": "Florida State grad. Golfer. Guitarist. \n\nFull Stack Software Engineer in NYC.\n\nFascinated in everything **tech** and **finance**.",
+      "content": "## About Me\n\nFull Stack Software Engineer in NYC. Florida State grad. \n\nPassionate about golfer and playing electric guitar.\n\nHealthy obsession with personal investing and finance\n\n## Tech Skills\n\n**Languages:** Javascript, Python, C++, HTML, CSS, SQL\n\n**Tools:** AWS, Git, Flask, Heroku, Netlify, Jenkins, CircleCI, Jest, Cypress, RESTful API’s, Shell Scripts\n\n**Frameworks:** React / Redux, Gatsby, Serverless\n\n## Links\n\n* [Resume](https://drive.google.com/file/d/1VhTcNmNTQzlgQoHrwXaWNXNbIB6xZUaC/view \"Resume\")\n* [Github](https://www.github.com/benhurley \"Github\")\n* [Linkedin](https://www.linkedin.com/in/benjamin-hurley \"Linkedin\")",
       "center": false
     }
   ],
