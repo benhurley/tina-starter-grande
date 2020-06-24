@@ -3,7 +3,7 @@
   "blocks": [
     {
       "_template": "ContentBlock",
-      "content": "## About Me\n\nFull Stack Software Engineer in NYC. Florida State grad.\n\nPassionate about golfer and playing electric guitar.\n\nMild obsession with personal investing and finance.\n\n## Experience\n\n##### _**** all experience is non-professional, personal trading**_\n\n* 5 years trading stocks\n* 1 year trading long call and put options\n\n## Links\n\nFellow #fintwit folks can follow me on [twitter](https://www.twitter.com/computerbin \"Ben's Twitter Account\")\n\n## Resources\n\n[Understanding Options](https://www.amazon.com/Understanding-Options-2E-Paperback-Common/dp/B00HR72VQA/ \"Understanding Options by Michael Sincere\") (great read)",
+      "content": "## About Me\n\nFull Stack Software Engineer in NYC. Florida State grad.\n\nPassionate about golfer and playing electric guitar.\n\nMild obsession with personal investing and finance.\n\n## Social Media\n\nFellow #fintwit folks can follow me on [twitter](https://www.twitter.com/computerbin \"Ben's Twitter Account\")\n\n## Resources\n\n* [Understanding Options](https://www.amazon.com/Understanding-Options-2E-Paperback-Common/dp/B00HR72VQA/ \"Understanding Options by Michael Sincere\") (great read)\n\n#### ** Disclaimer\n\n_I am not a financial advisor. The opinions expressed in this Blog are for general informational purposes only and are not intended to provide specific advice or recommendations for any individual or on any specific security or investment product._",
       "center": false
     }
   ],
