@@ -1,9 +1,6 @@
 {
   "logo": "Coffee",
-  "title": "benhurley.dev",
+  "title": "Ben's Blog",
   "description": "Ben Hurley's online portfolio. See Ben's résumé and projects or read his blog posts on personal finance.",
-  "author": "TinaCMS",
-  "__gatsby_resolved": {
-    "fileRelativePath": "/content/settings/site.json"
-  }
+  "author": "TinaCMS"
 }
