@@ -3,8 +3,8 @@
   "blocks": [
     {
       "_template": "ContentBlock",
-      "content": "I'm Ben Hurley. Florida State grad. Golfer. Guitarist. Fascinated in everything tech and finance. Originally from Tampa, Florida. Moved to New York City in 2018. Currently working as a full stack software engineer.",
-      "center": true
+      "content": "Florida State grad. Golfer. Guitarist. \n\nFull Stack Software Engineer in NYC.\n\nFascinated in everything **tech** and **finance**.",
+      "center": false
     }
   ],
   "hero": {
