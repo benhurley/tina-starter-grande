@@ -7,6 +7,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-tinacms-json`,
     `gatsby-transformer-json`,
+    `gatsby-plugin-react-helmet`,
     {
       resolve: "gatsby-plugin-tinacms",
       options: {
@@ -121,6 +122,13 @@ module.exports = {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
           endpoint: 'https://dev.us4.list-manage.com/subscribe/post?u=a38ee5cfd956e8a3181e097a9&amp;id=34ae01c4a6',
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+          endpoint: 'https://dev.us4.list-manage.com/subscribe/post?u=a38ee5cfd956e8a3181e097a9&amp;id=34ae01c4a6',
+          timeout: 3500,
       },
     },
   ],

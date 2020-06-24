@@ -6,6 +6,8 @@
   "hero": {
     "image": "../images/nyc.jpg",
     "large": true,
-    "overlay": true
+    "overlay": true,
+    "textline": "",
+    "headline": ""
   }
 }

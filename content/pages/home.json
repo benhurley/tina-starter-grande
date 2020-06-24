@@ -18,9 +18,9 @@
         "arrow": false
       },
       {
-        "label": "Subscribe",
+        "label": "Contact",
         "primary": true,
-        "link": "/subscribe"
+        "link": "/contact"
       }
     ],
     "image": "../images/dev-setup.jpg",
