@@ -2,8 +2,8 @@
   "color": {
     "black": "#131110",
     "white": "#FFFFFF",
-    "primary": "#8AB4E0",
-    "secondary": "#6D6D6C"
+    "primary": "#80B8F4",
+    "secondary": "#C6C6C6"
   },
   "easing": "cubic-bezier(0.215, 0.610, 0.355, 1.000)",
   "breakpoints": {
