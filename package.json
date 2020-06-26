@@ -46,7 +46,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-helmet": "^5.2.1",
+    "react-helmet": "^6.1.0",
     "react-slugify": "^2.0.1",
     "react-textarea-autosize": "^8.0.1",
     "react-tinacms-inline": "^0.4.6",
