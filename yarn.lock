@@ -8157,12 +8157,12 @@ gatsby-tinacms-remark@^0.8.2:
     react-tinacms-inline "^0.7.0"
     slash "^3.0.0"
 
-gatsby-transformer-json@^2.2.15:
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-json/-/gatsby-transformer-json-2.4.4.tgz#3ea88f7adb51e8a4ca91ebc9bc21482cf12af0b8"
-  integrity sha512-Hx4kZRBfF8oqQ/TVurP9do+sE/mFyzvqsoKmL0SEC/CiFcvCjlIDUU+NrvaEhr2yVlJax3v2Hr/9tST8DSYfPg==
+gatsby-transformer-json@^2.4.7:
+  version "2.4.7"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-json/-/gatsby-transformer-json-2.4.7.tgz#c34ed702fca5303de395a04a400835fc73e3dcb4"
+  integrity sha512-/HKlxbNA12xTbfeiwnBFZvKFu/z+16MOOZkluQXkCQqkP28DfRfw4f3lpmBlCeylXtKBDgWFtRTeF/4vIE0Reg==
   dependencies:
-    "@babel/runtime" "^7.10.2"
+    "@babel/runtime" "^7.10.3"
     bluebird "^3.7.2"
 
 gatsby-transformer-remark@^2.6.30:
