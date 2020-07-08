@@ -30,7 +30,7 @@
     "gatsby-remark-images": "^3.3.17",
     "gatsby-remark-prismjs": "^3.5.9",
     "gatsby-remark-relative-images": "^0.3.0",
-    "gatsby-source-filesystem": "^2.3.16",
+    "gatsby-source-filesystem": "^2.3.18",
     "gatsby-tinacms-git": "^0.5.6",
     "gatsby-tinacms-json": "^0.8.31",
     "gatsby-tinacms-remark": "^0.8.5",
