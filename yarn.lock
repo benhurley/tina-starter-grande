@@ -14928,7 +14928,7 @@ timsort@^0.3.0:
   resolved "https://registry.yarnpkg.com/timsort/-/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
 
-tinacms@^0.22.0, tinacms@^0.22.1:
+tinacms@^0.22.1:
   version "0.22.1"
   resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-0.22.1.tgz#98046d47d7acbf39e6c019241c4754e1c86c9ebc"
   integrity sha512-KauHOLVXaC/UxewhaQ74j3QangGAv3Rkkq+jaYK77yO/Ng64dArSTzO8ggN4wv5zUFsoMJ17/H9IVwnyGzXCmA==
