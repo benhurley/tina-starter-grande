@@ -6914,10 +6914,10 @@ gatsby-cli@^2.12.60:
     yargs "^15.3.1"
     yurnalist "^1.1.2"
 
-gatsby-core-utils@^1.3.12:
-  version "1.3.12"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.3.12.tgz#4a35b1c4e61f967bb18640e983fd82199e48692a"
-  integrity sha512-58pysrsfe2abWl7TOqeyHgyXSm9UIjYZ7UclGTvczWDYnxl8L/0kPSaFOX+bMmNBZmAB0YEtJZ3gHhM978OvqQ==
+gatsby-core-utils@^1.3.12, gatsby-core-utils@^1.3.14:
+  version "1.3.14"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.3.14.tgz#a830412a9edb87544bc0d1ad9c2556d33aa0d157"
+  integrity sha512-jfC+x5rrYUfl70MHRLsOtsXqdlqIbQGVDKXrvp6IPIUP8TKU6XIpYktF0Yd4ldJIWmGZTa062RWUOd2DFBHVSw==
   dependencies:
     ci-info "2.0.0"
     configstore "^5.0.1"
@@ -6997,10 +6997,10 @@ gatsby-plugin-manifest@^2.4.18:
     semver "^5.7.1"
     sharp "^0.25.1"
 
-gatsby-plugin-mdx@^1.2.25:
-  version "1.2.25"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.2.25.tgz#80c4f204519f127eff67cc7d5a03296e927e6011"
-  integrity sha512-BWewXvjVxqrVJ+UVk/WZUvhfsRX07wN2By3a1BbYvumzQ46+Vv5b8RpxF2MgKW8GkcNv7Wv1HpW4cMhDmjAubw==
+gatsby-plugin-mdx@^1.2.32:
+  version "1.2.32"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.2.32.tgz#e6fa9309a67f57e220fcabbb4f869436d9b00047"
+  integrity sha512-SfWp50HmqSpD7ti8O0bHy0UyHNoW4JDCUzLhRE4Qk8dB64FqRNCYDmpBcpwu66jolQquu6MAki7zm1DvEOhhlA==
   dependencies:
     "@babel/core" "^7.10.3"
     "@babel/generator" "^7.10.3"
@@ -7017,7 +7017,7 @@ gatsby-plugin-mdx@^1.2.25:
     escape-string-regexp "^1.0.5"
     eval "^0.1.4"
     fs-extra "^8.1.0"
-    gatsby-core-utils "^1.3.12"
+    gatsby-core-utils "^1.3.14"
     gray-matter "^4.0.2"
     json5 "^2.1.3"
     loader-utils "^1.4.0"
@@ -7030,6 +7030,7 @@ gatsby-plugin-mdx@^1.2.25:
     remark "^10.0.1"
     remark-retext "^3.1.3"
     retext-english "^3.0.4"
+    slugify "^1.4.4"
     static-site-generator-webpack-plugin "^3.4.2"
     style-to-object "^0.3.0"
     underscore.string "^3.3.5"
